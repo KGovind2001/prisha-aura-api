@@ -9,5 +9,4 @@ public class PrishaAuraApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PrishaAuraApiApplication.class, args);
 	}
-
 }
